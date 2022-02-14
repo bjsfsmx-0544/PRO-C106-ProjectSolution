@@ -1,4 +1,4 @@
-# PROC106-V1-plantilla-proyecto
+# PROC106-V1-solucion-proyecto
 Plantilla del alumno.  
 Detectar al peatón.  
   
