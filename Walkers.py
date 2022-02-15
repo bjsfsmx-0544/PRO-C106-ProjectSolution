@@ -7,7 +7,7 @@ body_classifier = cv2.CascadeClassifier('haarcascade_fullbody.xml')
 # Inicializar la captura de video para nuestro archivo de video
 cap = cv2.VideoCapture('walking.avi')
 
-# COmenzar el bucle una vez que el video esté cargado exitosamente
+# Comenzar el bucle una vez que el video esté cargado exitosamente
 while True:
     
     # Leer el primer cuadro
